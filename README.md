@@ -21,3 +21,16 @@ This project demonstrates a basic AWS-based data ingestion pipeline using Java S
 - GitHub (for version control)
 
 ## 🔧 Architecture
+aws-s3-lambda-csv-uploader/
+├── src/main/java/com/example/uploader/
+│   └── controller/UploadController.java
+│   └── service/S3Service.java
+├── src/main/resources/application.properties
+├── pom.xml
+└── README.md
+License
+
+MIT License — Feel free to use, fork, and contribute.
+
+Author: [Your Name]
+GitHub: https://github.com/saurabhmittall/aws-s3-lambda-csv-uploader
